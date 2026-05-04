@@ -1,0 +1,64 @@
+body {
+    background-color: #e8d8c3;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #3b2f2f;}
+
+h1 {
+    font-size: 42px;
+    color: #8b4513; }
+
+h2 {
+    font-size: 28px;
+    color: #a0522d; /* café rojizo */
+}
+
+
+.menu {
+    background-color: #c2a27c;     padding: 12px;
+    border-radius: 10px;
+}
+
+.menu a {
+    margin: 12px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2f2f;
+}
+
+.menu a:hover {
+    color: #8b0000; }
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    font-size: 24px;
+    background-color: #f5e6cc;
+}
+
+th {
+    background-color: #d2b48c;
+}
+
+th, td {
+    border: 1px solid #8b4513;
+    padding: 10px;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+p, li {
+    font-size: 26px;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
